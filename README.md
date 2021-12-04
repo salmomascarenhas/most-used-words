@@ -1,24 +1,23 @@
 # most-used-words
+Cross-platform desktop project that counts the most used words in a subtitle file (*str). Technologies used: VueJs 2 + Vuetify + Electron
+
 
 ## Project setup
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compiles and hot-reloads for development (ElectronJS)
 ```
-npm run serve
+npm run electron:serve
 ```
 
 ### Compiles and minifies for production
 ```
-npm run build
+npm run electron:build
 ```
 
 ### Lints and fixes files
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
